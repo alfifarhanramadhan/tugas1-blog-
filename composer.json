@@ -1,0 +1,14 @@
+{
+    "name": "alfifarhanramadhan/blogalfi",
+    "description": "Tugas 1 Pemograman Berbasis Web Lanjutan",
+    "type": "project",
+    "require": {
+        "php": "^7.4"
+    },
+    "authors": [
+        {
+            "name": "aanramadhan",
+            "email": "aanramadhan261014@gmail.com"
+        }
+    ]
+}
